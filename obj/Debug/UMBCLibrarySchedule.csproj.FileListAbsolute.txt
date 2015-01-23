@@ -1,0 +1,6 @@
+C:\UMBCLibrary\UMBCLibrarySchedule\UMBCLibrarySchedule\bin\UMBCLibrarySchedule.dll.config
+C:\UMBCLibrary\UMBCLibrarySchedule\UMBCLibrarySchedule\bin\UMBCLibrarySchedule.dll
+C:\UMBCLibrary\UMBCLibrarySchedule\UMBCLibrarySchedule\bin\UMBCLibrarySchedule.pdb
+C:\UMBCLibrary\UMBCLibrarySchedule\UMBCLibrarySchedule\obj\Debug\UMBCLibrarySchedule.csprojResolveAssemblyReference.cache
+C:\UMBCLibrary\UMBCLibrarySchedule\UMBCLibrarySchedule\obj\Debug\UMBCLibrarySchedule.dll
+C:\UMBCLibrary\UMBCLibrarySchedule\UMBCLibrarySchedule\obj\Debug\UMBCLibrarySchedule.pdb

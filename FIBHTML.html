@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Fib calculater</title>
+    <script>
+
+// The Fibonacci numbers are the integer sequence 0, 1, 1, 2, 3, 5, ...,
+// in which each item is formed by adding the previous two
+
+        function callfib()
+        {
+
+            var num = document.getElementById('userInput').value;
+
+            document.getElementById('para').innerHTML = FibonacciSum(num);
+
+
+        }
+
+function FibonacciSum(num){
+  return num<2?num:FibonacciSum(num-1)+FibonacciSum(num-2);
+}
+
+    </script>
+
+</head>
+
+<body>
+
+     <input type="number" id="userInput" name="inputFldName">
+        <p id="para"> </p>
+        <button onclick="callfib()" >
+        Give Me the Fibonacci numbers for the above input </Button>
+    <p id="para2"> </p>
+    </body>
+
+
+</html>
